@@ -1,1 +1,4 @@
 * ISIMA-Latex
+
+** Preview
+[[file:doc/preview.png]]
